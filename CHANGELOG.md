@@ -15,6 +15,7 @@ project adheres to [Semantic Versioning](http://semver.org).
 - Added `grid-shift` functionality
 - Added `grid-media` to allow the creation of media queries with custom grids
 - Added `grid-collapse` to allow the creation of nested layouts
+- Added ltr/rtl support
 
 ### Changed
 
